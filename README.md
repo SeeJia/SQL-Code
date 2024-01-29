@@ -6,3 +6,4 @@
 
 ##### 1. Create Table
 ##### 2. Insert Into
+##### 3. SELECT Statement
