@@ -15,4 +15,5 @@
 ##### 9.  HAVING Clause
 ##### 10. UPDATE & DELETE 
 ##### 11. Aliasing
+##### 12. PARTITION BY
 
