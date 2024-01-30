@@ -13,4 +13,5 @@
 ##### 7. UNION & UNION ALL
 ##### 8. CASE
 ##### 9. HAVING Clause
+##### 10. UPDATE & DELETE 
 
