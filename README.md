@@ -5,5 +5,7 @@
 ##### The SQL code include:
 
 ##### 1. Create Table
-##### 2. Insert Into
-##### 3. SELECT Statement
+##### 2. INSERT INTO
+##### 3. SELECT 
+##### 4. WHERE 
+
