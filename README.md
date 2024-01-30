@@ -8,4 +8,5 @@
 ##### 2. INSERT INTO
 ##### 3. SELECT 
 ##### 4. WHERE 
+##### 5. GROUP BY & ORDER BY
 
