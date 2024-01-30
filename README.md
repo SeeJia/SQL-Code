@@ -12,4 +12,5 @@
 ##### 6. INNER JOIN, FULL/LEFT/RIGHT OUTER JOIN
 ##### 7. UNION & UNION ALL
 ##### 8. CASE
+##### 9. HAVING Clause
 
