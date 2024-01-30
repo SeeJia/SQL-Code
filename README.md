@@ -1,8 +1,8 @@
 # SQL Code
 
-#### MS SQL, Azure Data Studio
+### MS SQL, Azure Data Studio
 
-##### The SQL code include:
+#### The SQL code include:
 
 ##### 1. CREATE TABLE
 ##### 2. INSERT INTO
@@ -11,4 +11,5 @@
 ##### 5. GROUP BY & ORDER BY
 ##### 6. INNER JOIN, FULL/LEFT/RIGHT OUTER JOIN
 ##### 7. UNION & UNION ALL
+##### 8. CASE
 
