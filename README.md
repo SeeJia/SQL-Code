@@ -16,4 +16,9 @@
 ##### 10. UPDATE & DELETE 
 ##### 11. Aliasing
 ##### 12. PARTITION BY
+##### 13. CTE (Common Table Expression)
+##### 14. Temp Tables
+##### 15. String Functions
+##### 16. Stored Procedures
+##### 17. Subqueries
 
