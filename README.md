@@ -1,6 +1,6 @@
 # SQL Code
 
-### MS SQL, software to write SQL codes are using Azure Data Studio
+### MS SQL, this code is using Azure Data Studio software to run. 
 
 #### The SQL code includes:
 
