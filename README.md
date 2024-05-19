@@ -1,10 +1,11 @@
-# SQL Code
+# SQL Project Documentation
 
-### MS SQL, this code is using Azure Data Studio software to run. 
+### This project contains SQL scripts that demonstrate various functionalities using MS SQL and are executed using Azure Data Studio.
 
-#### The SQL code includes:
+#### Features
 
-##### 1.  CREATE TABLE
+1. **CREATE TABLE**
+- Scripts to create tables with appropriate schema.
 ##### 2.  INSERT INTO
 ##### 3.  SELECT 
 ##### 4.  WHERE 
