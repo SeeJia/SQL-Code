@@ -1,8 +1,8 @@
 # SQL Code
 
-### MS SQL, Azure Data Studio
+### MS SQL, software to write SQL codes are using Azure Data Studio
 
-#### The SQL code include:
+#### The SQL code includes:
 
 ##### 1.  CREATE TABLE
 ##### 2.  INSERT INTO
